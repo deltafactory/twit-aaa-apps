@@ -1,33 +1,211 @@
-Category
-Action
-App Store
-Arcade
-Books & Reference
-Business
-Camera
-Casual
-Comics
-Communication
-Education
-Entertainment
-Finance
-Game
-Health & Fitness
-Libraries & Demo
-Lifestyle
-Media & Video
-Music & Audio
-News & Magazines
-Personalization
-Photography
-Productivity
-Puzzle
-Racing
-Shopping
-Simulation
-Social
-Sports
-Tools
-Transportation
-Travel & Local
-Weather
+Category	SubCategory
+Action	
+App Store	
+Arcade	
+Arcade	Parental Control
+Books & Reference	
+Books & Reference	E-books
+Business	
+Business	Payment
+Business	Remote Desktop Connection
+Business	Scanner
+Camera	Tools
+Casual	
+Comics	xkcd
+Communication	
+Communication	SMS
+Communication	VoIP
+Communication	Email
+Communication	Pebble customization
+Communication	Text Security
+Communication	Instant Messaging (IM)
+Communication	WiFi
+Communication	Widget
+Communication	Twitter
+Communication	Tethering
+Communication	Web Browser
+Communication	IRC
+Communication	Contacts and Dialer
+Education	
+Education	Space
+Education	Paper airplanes
+Education	Language
+Education	Kids
+Education	Drawing
+Entertainment	
+Entertainment	Battery
+Entertainment	Video Streaming
+Entertainment	Lockscreen
+Finance	
+Finance	Calculator
+Game	Board
+Game	Arcade
+Game	
+Game	Adventure
+Game	Action
+Game	Puzzle
+Game	Simulation
+Game	Card
+Game	Casual
+Game	Word
+Game	Strategy
+Game	Racing
+Game	Arcade & Action
+Game	Brain & Puzzle
+Game	Sport Games
+Health & Fitness	
+Health & Fitness	Cooking
+Health & Fitness	Baby tracker
+Health & Fitness	Automation
+Health & Fitness	Weight
+Health & Fitness	Dreaming
+Health & Fitness	Food ingredient identifier
+Health & Fitness	Running
+Libraries & Demo	Cloud Management
+Libraries & Demo	Multimedia Framework
+Libraries & Demo	Text-to-speech (TTS)
+Lifestyle	
+Lifestyle	Travel
+Lifestyle	Alarm Clock
+Lifestyle	Lockscreen
+Lifestyle	Evernote
+Lifestyle	Score pad
+Lifestyle	Drinks
+Lifestyle	Payment
+Lifestyle	Food
+Media & Video	
+Media & Video	Video & Audio Streaming
+Media & Video	Video Streaming
+Media & Video	Chromecast
+Media & Video	Video Editor
+Media & Video	Drawing
+Media & Video	Video Player
+Media & Video	Podcasts
+Music & Audio	
+Music & Audio	Audio
+Music & Audio	Fitness
+Music & Audio	Gesture Control
+Music & Audio	Music Player
+Music & Audio	Radio
+Music & Audio	Audio Books
+Music & Audio	Music Streaming
+News & Magazines	
+News & Magazines	Reader
+News & Magazines	Android
+News & Magazines	reddit
+News & Magazines	RSS Reader
+News & Magazines	Podcasts
+Personalization	
+Personalization	Launcher
+Personalization	Wallpaper
+Personalization	Clock/Day planner
+Personalization	Lockscreen
+Personalization	Notifications
+Personalization	Icons
+Personalization	Round screen corners
+Personalization	Keyboard
+Personalization	Widget
+Personalization	App Switcher
+Personalization	Alarm Clock
+Photography	
+Photography	Calendar
+Productivity	
+Productivity	Share Files
+Productivity	Calendar
+Productivity	Email
+Productivity	Note Taking
+Productivity	Writing
+Productivity	Widget
+Productivity	Cloud search
+Productivity	Keyboard
+Productivity	To-Do
+Productivity	Text Editor
+Productivity	Voice-Activated Assistant
+Productivity	Push notification service
+Productivity	Scanner
+Productivity	Launcher
+Productivity	Debt
+Productivity	Conferencing
+Productivity	Notifications
+Productivity	Recycle Bin
+Productivity	Remote Desktop Connection
+Productivity	Clipboard Manager
+Productivity	Sign Documents
+Productivity	Security
+Productivity	Web Browser
+Productivity	Cloud Storage
+Productivity	Battery
+Puzzle	
+Racing	
+Shopping	
+Shopping	Apps
+Shopping	Apartment Rental
+Simulation	
+Social	
+Social	Twitter
+Social	Font creation
+Social	Forums
+Social	Video
+Social	Scheduled messages
+Social	Instant Messaging (IM)
+Social	Widget
+Social	Location
+Sports	
+Tools	
+Tools	Conversions
+Tools	Display Control
+Tools	Launcher
+Tools	Network Monitor
+Tools	Remote
+Tools	Screen
+Tools	Remote IP cam viewer
+Tools	Task Manager
+Tools	Task Switcher
+Tools	Notifications
+Tools	Keyboard
+Tools	Data Usage
+Tools	File manager
+Tools	Widget
+Tools	Syncing
+Tools	Device manager
+Tools	Memory booster/trash cleaner
+Tools	NFC
+Tools	Volume
+Tools	Pebble notifications
+Tools	Battery
+Tools	Share menu replacement
+Tools	Screensaver
+Tools	WiFi
+Tools	Automation
+Tools	System Stats
+Tools	Privacy
+Tools	Ads
+Tools	Screen rotation
+Tools	System optimize toolbox
+Tools	Alarm Clock
+Tools	Flashlight
+Tools	Backup
+Tools	Gaming
+Tools	LED notificaions
+Tools	Color palette generator
+Tools	Contacts
+Tools	Filesharing
+Tools	Multiple accounts
+Tools	Mobile Data Usage
+Tools	Tethering
+Tools	Brightness
+Tools	Voice-Activated Assistant
+Tools	SMS
+Tools	Security
+Tools	CPU
+Transportation	
+Transportation	Vehicle charging stations
+Transportation	Public Transportation
+Transportation	Location
+Travel & Local	
+Travel & Local	Local
+Travel & Local	Food
+Travel & Local	Car Rental
+Travel & Local	Hotels & Flights
+Travel & Local	Flying
+Weather	
